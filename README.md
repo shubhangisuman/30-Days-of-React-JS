@@ -9,3 +9,4 @@
 |5|Saturday, 17-July-2021|Hands-on |Added a new features to Expense Tracker|WIP - Store the received data|
 |6|Sunday, 18-7-2021| Rendering lists and conditional content, Understanding keys| Using stateful lists, conditional rendering <br>Hands-on: Worked with lists| 🗒️
 |7|Monday, 19-7-2021|Dynamic styling, Adding conditional return statements| Hands-on : Adding dynamic Charts 📊 to the project, Completed the Expense Tracker Project|Code - [Expense Tracker](./Expense%20Tracker/src/Components)
+|8|Tuesday, 20-7-2021|Styled Components & CSS Modules 📁|Adding dynamic styles, media queries and props using Styled Components & CSS Modules| 🖌️ 🗃️|
