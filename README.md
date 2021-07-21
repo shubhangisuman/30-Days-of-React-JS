@@ -10,3 +10,4 @@
 |6|Sunday, 18-7-2021| Rendering lists and conditional content, Understanding keys| Using stateful lists, conditional rendering <br>Hands-on: Worked with lists| 🗒️
 |7|Monday, 19-7-2021|Dynamic styling, Adding conditional return statements| Hands-on : Adding dynamic Charts 📊 to the project, Completed the Expense Tracker Project|Code - [Expense Tracker](./Expense%20Tracker/src/Components)
 |8|Tuesday, 20-7-2021|Styled Components & CSS Modules 📁|Adding dynamic styles, media queries and props using Styled Components & CSS Modules| 🖌️ 🗃️|
+|9|Wednesday, 21-7-2021|Hands-on Implemented Styling of components using CSS Modules & Styled Components|Learnt to use template literals/ Backticks, using media queries, using props in styling|Display dynamic values as $(a+b) inside backticks|
