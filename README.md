@@ -13,4 +13,4 @@
 |9|Wednesday, 21-7-2021|Hands-on Implemented Styling of components using CSS Modules & Styled Components|Learnt to use template literals/ Backticks, using media queries, using props in styling|1. Display dynamic values as $(a+b) inside backticks<br>2. When using CSS Modules, name CSS classes as "Name.modules.css" <br>3. Import the CSS file as 'import styles from example.module.css' & use as className={styles.button} or className={styles['form-control']} <br>4. CSS modules makes every class unique by concatinating a unique string to every property in css file|
 |10|Thrusday, 22-7-2021|Wraping components, React Fragments, React portals, refs |<></> or <React.Fragment></React.Fragment>|Helps to avoid having lots of div for larger projects|
 |11|Friday, 23-3-2021|Hands-on|Building a food ordering app 🥘 🍕 🍔|
-|12|Saturday, 24-7-2021|Hands-on|Building resuable buttons, Adding validation in a form, Resetting logics, Adding Error Modals| ./Practice%20Project/src/Components
+|12|Saturday, 24-7-2021|Hands-on|Building resuable buttons, Adding validation in a form, Resetting logics, Adding Error Modals| Code - [Practice Project](./Practice%20Project/src/Components)
